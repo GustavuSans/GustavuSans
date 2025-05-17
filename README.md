@@ -1,16 +1,31 @@
-## Hi there 👋
+## Cozinhando códigos, nada mais.  
+<div>
+    <img class= "white" src = "./assets/White.gif">
+<div> 
+<div class = "l">
+    <h1>Linguagens Favoritas</h1>
+    Python <img class = "py" src= "./assets/py.svg"> 
+    <br/>
+    JavaScript <img class = "js" src = "./assets/js.svg">
+    <br/>
+    C++ <img class= "cplus" src="./assets/c++.png">
+<div>
 
-<!--
-**GustavuSans/Gustavusans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<style>
+    .py{
+        padding-left:8px;
+        width:14px;
+    }
+    .js{
+        padding-left:8px;
+        width:14px;
+    }
+    .cplus{
+        padding-left:8px;
+        width:14px; 
+    }
+    .white{
+        align-self: center;
+        justify-content: center;
+    }
+</style>
