@@ -3,11 +3,10 @@
 <img src="./assets/White.gif" alt="not found image" width="600px" draggable= "false"/>
 
 ## Linguagens Favoritas
-<div style = "display:incline-block">
-    <img src = "./assets/py.svg" alt="not found image" draggable= "false" width="30px" style="padding:10;"/>
-    <img src = "./assets/js.svg" alt="not found image" draggable= "false" width="30px" style = "padding:10;"/>
-    <img src = "./assets/c++.png" alt="not found image" draggable= "false" width="30px" style = "padding:10;"/>
-
+<div style = "display:inline">
+    <img src = "./assets/py.svg" alt="not found image" draggable= "false" width="30px" style="padding:20px;"/>
+    <img src = "./assets/js.svg" alt="not found image" draggable= "false" width="30px" style = "padding:20px;"/>
+    <img src = "./assets/c++.png" alt="not found image" draggable= "false" width="30px" style = "padding:20px;"/>
 <div>
 
 <a href="https://github.com/GustavuSans/">
@@ -16,4 +15,4 @@
 
 ## Redes Públicas
 
-<p style= "font-size:22px; font-weight: bold;">Tenho <a style= "color:red">Twitter/X</a> só não uso.</p>
+<p style= "font-size:22px; font-weight: bold;">Tenho <a style= "color:red" href = "https://x.com/@gustavusans">Twitter/X</a> só não uso.</p>
